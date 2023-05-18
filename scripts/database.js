@@ -3,7 +3,6 @@ const database = {
         {
             name: "Bart",
             food: "crustaceans",
-            size: 3,
             image: "#",
             length: "15cm",
             location: "Bahamas",
@@ -12,7 +11,6 @@ const database = {
         {
             name: "Kevin",
             food: "cytoplankton",
-            size: 1,
             image: "#",
             length: "10cm",
             location: "Gulf of Mexico",
@@ -21,7 +19,6 @@ const database = {
         {
             name: "Sandy",
             food: "schooling fish",
-            size: 4,
             image: "#",
             length: "35cm",
             location: "San Francisco bay",
