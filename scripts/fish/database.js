@@ -24,6 +24,30 @@ const database = {
             location: "San Francisco bay",
             species: "shark",
         },
+        {
+            name: "Jimmy",
+            food: "plankton",
+            image: "#",
+            length: "20cm",
+            location: "Gulf of mexico",
+            species: "red fish",
+        },
+        {
+            name: "salted blue fish",
+            food: "salted plankton",
+            image: "#",
+            length: "5cm",
+            location: "dead sea",
+            species: "blue fish",
+        },
+        {
+            name: "salted green fish",
+            food: "salt fish",
+            image: "#",
+            length: "20cm",
+            location: "dead sea",
+            species: "green fish",
+        },
     ]
 }
 
